@@ -1,3 +1,7 @@
+See the HTML rendered list here:
+https://nicklasnilsson-ux.github.io/uxchecklist/
+
+
 UX Project Checklist
 ===========
 
